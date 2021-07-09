@@ -1,14 +1,10 @@
 # nccovidhospitaldata
 												
-These data are compiled daily from the North Carolina DHHS COVID-19 Hospitalization Dashboard at: https://covid19.ncdhhs.gov/dashboard/hospitalizations
+These data are no longer being updated.
 
-I double-check some of the numbers against those compiled by Cone Health occasionally, and thank them for their resource at: https://github.com/conedatascience/covid-data
+These data were compiled daily from the North Carolina DHHS COVID-19 Hospitalization Dashboard at: https://covid19.ncdhhs.gov/dashboard/hospitalizations
 
-Preferred Acknowledgment: Hilary Campbell, PharmD, JD at the Duke-Margolis Center for Health Policy. 
-
-My effort is partially funded by NCDHHS.
-
-Contact hilary.campbell@duke.edu with questions	
+I double-checked some of the numbers against those compiled by Cone Health occasionally, and thank them for their resource at: https://github.com/conedatascience/covid-data
 
 Data incomplete between 6/24-6/29 (posting dates) due to changes in how data distributed/compiled.
 
